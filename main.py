@@ -21,7 +21,7 @@ def confirmData():
     text = ui.textEdit.toPlainText()
     name = ui.lineEdit.text()
     user_data = {
-        'api_dev_key': 'PthjTNm8B_jsY9z_R9MQgsgkXmOnb20I',
+        'api_dev_key': '',
         'api_option': 'paste',
         'api_paste_code': text,
         'api_paste_name': name,
